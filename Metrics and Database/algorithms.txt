@@ -1,0 +1,10 @@
+ALGORITHM,ALGORITHM_NAME
+ADA,	AdaBoost
+DT,	Decision Tree
+KNN,	K-Neighbors
+LR,	Logistic Regression
+NN,	Neural Networking
+RF,	Random Forest
+SGD,	Stochastic Gradient Descent
+SCV,	Support Vector Classifier
+
